@@ -1,0 +1,16 @@
+.cell{
+    width: 30px;
+    height: 30px;
+    margin-bottom: 5px;
+    border: 1px solid #b4afaf;
+    display: grid;
+}
+.cell-alive{
+    background: #000000;
+}
+.cell-dead{
+    background: #ffffff;
+}
+body{
+    background-color: black;
+}
