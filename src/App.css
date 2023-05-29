@@ -12,5 +12,6 @@
     background: #ffffff;
 }
 body{
-    background-color: black;
+    background: rgb(86,81,171);
+    background: linear-gradient(90deg, rgba(86,81,171,1) 0%, rgba(175,165,114,1) 35%, rgba(82,135,145,1) 100%);
 }
